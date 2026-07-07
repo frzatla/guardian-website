@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+@theme {
+  --color-teal:    #19647b; /* primary */
+  --color-ink:     #0f2a33; /* headings */
+  --color-orange:  #f46521; /* accent — CTAs only */
+  --color-surface: #f6f9fa;
+  --color-muted:   #4a5a60;
+}

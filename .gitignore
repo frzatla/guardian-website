@@ -22,3 +22,8 @@ pnpm-debug.log*
 
 # jetbrains setting folder
 .idea/
+
+# Design skills — installed per-machine, not needed to build or deploy
+.agents/
+.impeccable/
+.codex/hooks.json
